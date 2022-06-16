@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This page provides a description of 11.312 Engaging Community and lays
+  out the grading policies and other expectations for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 534c95e6-f48c-b558-62f0-a4b43ee31aa6
 ---
 
-This page presents the syllabus for 11.312 as modified partway through the semester in response to the Covid-19 pandemic. For the syllabus as originally planned, see the [Pre-Pandemic Syllabus]({{< baseurl >}}/pages/syllabus/original-syllabus) page.
+This page presents the syllabus for 11.312 as modified partway through the semester in response to the Covid-19 pandemic. For the syllabus as originally planned, see the {{% resource_link 232fc155-f77e-7b98-62d8-4d389de47251 "Pre-Pandemic Syllabus" %}} page.
 
 Course Meeting Times
 --------------------

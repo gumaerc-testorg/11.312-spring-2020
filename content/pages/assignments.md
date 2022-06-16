@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,7 +10,7 @@ uid: cd4ff9f5-d886-36f8-5e19-cebe5a4a8d07
 
 ### Civic Design Skill Assessment \[Individual Effort\]
 
-Using the [Civic Design Framework Grid (PDF)]({{< baseurl >}}/resources/mit11_312s20_cdf_grid), conduct a one-on-one interview with a person of your choice (we will develop criteria in the class). This assessment will ask people to rate their knowledge/skill for each of the 48 design challenges represented in the framework. Instructions for the exercise will be provided in class. \[15% of grade\]
+Using the {{% resource_link bd22d7eb-135c-d028-02e8-d8469230272c "Civic Design Framework Grid (PDF)" %}}, conduct a one-on-one interview with a person of your choice (we will develop criteria in the class). This assessment will ask people to rate their knowledge/skill for each of the 48 design challenges represented in the framework. Instructions for the exercise will be provided in class. \[15% of grade\]
 
 ### Design Briefs \[Team Effort\] 
 

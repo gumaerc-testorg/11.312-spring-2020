@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the syllabus for 11.312 as it was originally structured
+  before the Covid-19 pandemic forced MIT to switch to all-online instruction.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +11,7 @@ title: Original Syllabus
 uid: 232fc155-f77e-7b98-62d8-4d389de47251
 ---
 
-_\[Note: This page presents the syllabus for 11.312 as it was originally structured before the Covid-19 pandemic forced MIT to switch to all-online instruction. For the course as actually taught, see the main [Syllabus]({{< baseurl >}}/pages/syllabus) page.\]_
+_\[Note: This page presents the syllabus for 11.312 as it was originally structured before the Covid-19 pandemic forced MIT to switch to all-online instruction. For the course as actually taught, see the main {{% resource_link 534c95e6-f48c-b558-62f0-a4b43ee31aa6 "Syllabus" %}} page.\]_
 
 Course Meeting Times
 --------------------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides a listing of the weekly topics for the course, along
+  with due dates for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
