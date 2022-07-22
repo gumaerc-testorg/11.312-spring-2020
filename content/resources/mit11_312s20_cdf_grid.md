@@ -6,6 +6,7 @@ file: /courses/11-312-engaging-community-models-and-methods-for-designers-and-pl
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: CDF grid
 uid: bd22d7eb-135c-d028-02e8-d8469230272c
 ---
 This single-page pdf presents the Civic Design Framework Grid created by Prof. Ceasar McDowell.
-
