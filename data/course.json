@@ -43,7 +43,10 @@
     "content": "bae47b4a-1573-cd12-0719-d0707fbc7fb1",
     "website": "11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020"
   },
-  "learning_resource_types": [],
-  "site_uid": "2d081d14-765a-4798-9eff-8ca09aed0980",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "eb467758-5372-4df5-92cb-0d0b109d6ce5",
+  "site_short_id": "11.312-spring-2020",
   "title": "Course Metadata"
 }
