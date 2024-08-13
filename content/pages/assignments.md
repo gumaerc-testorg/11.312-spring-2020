@@ -24,9 +24,9 @@ The finished products will include a design brief for the client, a blog post on
 
 Sample design briefs from 2020 and previous years:
 
-*   [Poughkeepsie Children's Cabinet design brief draft (2020)](https://drive.google.com/file/d/1n3ZTteht9ZUY4zafmTwvhq3XIcyzVT7p/view)
-*   [San Pedro Practicum design brief (2019)](https://medium.com/wewhoengage/2019-san-pedro-practicum-report-330cb029b830) 
-*   [Mothers Out Front, 400 Years of Inequality, and Upgrade Cambridge design briefs (2018)](https://medium.com/wewhoengage/2018-engaging-community-student-design-briefs-1d1191594983)
+*   {{% resource_link "cbf25397-1786-4812-8724-70d7fb27e2ea" "Poughkeepsie Children's Cabinet design brief draft (2020)" %}}
+*   {{% resource_link "5afe8c97-0ec2-4ecc-9a6c-cb0c498a9cd9" "San Pedro Practicum design brief (2019)" %}} 
+*   {{% resource_link "c3d8eccf-f74a-40b8-b4e1-19153bad26d8" "Mothers Out Front, 400 Years of Inequality, and Upgrade Cambridge design briefs (2018)" %}}
 
 ### Reflection Blog \[Individual Effort\] 
 
