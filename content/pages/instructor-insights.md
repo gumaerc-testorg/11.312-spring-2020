@@ -39,7 +39,7 @@ None
 
 ### Requirements Satisfied
 
-11.312 can be applied toward a [Master’s Degree in City Planning](https://dusp.mit.edu/degrees/masters), but is not required.
+11.312 can be applied toward a {{% resource_link "331334c1-2cfa-4dec-b79c-a9243170419d" "Master’s Degree in City Planning" %}}, but is not required.
 
 ### Offered
 

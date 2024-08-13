@@ -50,7 +50,7 @@ The second half of this section explores eight design principles for developing 
 
 ### Section 2: Learning Design \[weeks 5 through 7\]
 
-In this section, the class will be introduced to the [Gather platform](https://www.goldininstitute.org/grassroots-solutions/leadership-development) developed by the Goldin Institute. We will use the Gather pedagogical framework to develop teaching exercises for each of the design principles. The exercises will be informed by the one-on-one conversations, past class projects, and the work of students at Florida Gulf Coast University.
+In this section, the class will be introduced to the {{% resource_link "43f1c9a6-97e2-4067-872e-62321871a718" "Gather platform" %}} developed by the Goldin Institute. We will use the Gather pedagogical framework to develop teaching exercises for each of the design principles. The exercises will be informed by the one-on-one conversations, past class projects, and the work of students at Florida Gulf Coast University.
 
 ### Section 3: Engagement Design \[weeks 8 through 11\]
 
@@ -158,19 +158,19 @@ Other Classwork
 Academic Integrity and Support
 ------------------------------
 
-In this course, I will hold you to the high standard of academic integrity expected of all students at the Institute. I do this for two reasons. First, it is essential to the learning process that you are the one doing the work. I have structured the assignments in this course to enable you to gain a mastery of the course material. Failing to do the work yourself will result in a lesser understanding of the content, and therefore a less meaningful education for you. Second, it is important that there be a level playing field for all students in this course and at the Institute so that the rigor and integrity of the Institute’s educational program is maintained. Violating the [Academic Integrity policy](https://integrity.mit.edu/) in any way (e.g., plagiarism, unauthorized collaboration, cheating, etc.) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment or exam, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
+In this course, I will hold you to the high standard of academic integrity expected of all students at the Institute. I do this for two reasons. First, it is essential to the learning process that you are the one doing the work. I have structured the assignments in this course to enable you to gain a mastery of the course material. Failing to do the work yourself will result in a lesser understanding of the content, and therefore a less meaningful education for you. Second, it is important that there be a level playing field for all students in this course and at the Institute so that the rigor and integrity of the Institute’s educational program is maintained. Violating the {{% resource_link "56800195-e656-4fb0-8ac9-caa82debc787" "Academic Integrity policy" %}} in any way (e.g., plagiarism, unauthorized collaboration, cheating, etc.) will result in official Institute sanction. Possible sanctions include receiving a failing grade on the assignment or exam, being assigned a failing grade in the course, having a formal notation of disciplinary action placed on your MIT record, suspension from the Institute, and expulsion from the Institute for very serious cases.
 
 Please review the Academic Integrity policy and related resources (e.g., working under pressure; how to paraphrase, summarize, and quote; etc.) and contact me if you have any questions about appropriate citation methods, the degree of collaboration that is permitted, or anything else related to the academic integrity of this course.
 
 Special Accommodations for Students with Disabilities
 -----------------------------------------------------
 
-If you need disability-related accommodations, I encourage you to meet with me early in the semester. If you have not yet been approved for accommodations, please contact [Disability and Access Services](https://studentlife.mit.edu/das). I look forward to working with you to assist you with your approved accommodations.
+If you need disability-related accommodations, I encourage you to meet with me early in the semester. If you have not yet been approved for accommodations, please contact {{% resource_link "1a70e48e-a2af-4b64-aca0-97396fa39cf5" "Disability and Access Services" %}}. I look forward to working with you to assist you with your approved accommodations.
 
 Student Mental Health
 ---------------------
 
-As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may impact your ability to attend class, concentrate, complete work, take an exam, or participate in daily activities. Undergraduates: Please discuss this with [Student Support Services (S3)](https://studentlife.mit.edu/s3). Graduate Students: Please reach out to the deans for personal support in the [Office of Graduate Education](https://oge.mit.edu/). For urgent or after-hours concerns, please contact [MIT Police](https://police.mit.edu/).
+As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may impact your ability to attend class, concentrate, complete work, take an exam, or participate in daily activities. Undergraduates: Please discuss this with {{% resource_link "a5c199df-7e61-4742-afa8-9de420fb8d4f" "Student Support Services (S3)" %}}. Graduate Students: Please reach out to the deans for personal support in the {{% resource_link "2b37fdb4-4160-471f-b3f3-6bb5ba7151c7" "Office of Graduate Education" %}}. For urgent or after-hours concerns, please contact {{% resource_link "935f0f1a-25fd-407e-86e7-1f02ea8838bc" "MIT Police" %}}.
 
 Diversity
 ---------
