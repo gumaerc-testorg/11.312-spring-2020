@@ -15,9 +15,9 @@ uid: 7ab5c485-2253-798a-b1b6-aba790e8067e
 
 {{< quote "We have to learn to talk to each other. Yes, this is hard work, and yes, you can do it." "— Prof. Ceasar McDowell" >}}
 
-In the episode of the _Chalk Radio_ podcast embedded below, Professor Ceasar McDowell describes how he works with his students in _11.312 Engaging Community: Models and Methods for Designers and Planners_, teaching them to use the tools of civic design to craft more inclusive forms of community engagement and decision-making.
+In the episode of the *Chalk Radio* podcast embedded below, Professor Ceasar McDowell describes how he works with his students in *11.312 Engaging Community: Models and Methods for Designers and Planners*, teaching them to use the tools of civic design to craft more inclusive forms of community engagement and decision-making.
 
-{{< simplecast 788d5758-eda2-49fd-be1f-9af99cc14bd7 >}}
+{{< resource uuid="acd307f5-c9a9-4617-b9c0-ad07c30434d6" >}}
 
 ## Assessment
 
