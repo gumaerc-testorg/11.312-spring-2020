@@ -2,7 +2,7 @@
 content_type: resource
 description: This single-page pdf presents the Civic Design Framework Grid created
   by Prof. Ceasar McDowell.
-file: /courses/11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020/bd22d7eb135cd02802e8d8469230272c_MIT11_312s20_cdf_grid.pdf
+file: /ol-ocw-studio-app/courses/11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020/bd22d7eb135cd02802e8d8469230272c_MIT11_312s20_cdf_grid.pdf
 file_size: 991964
 file_type: application/pdf
 learning_resource_types:
