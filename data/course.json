@@ -33,6 +33,8 @@
     "website": "11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020"
   },
   "course_title": "Engaging Community: Models and Methods for Designers and Planners",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course proposes that most cities have neither the infrastructure nor the processes in place to support the demographically complex public in fulfilling its role in democracy. Through this course, participants will learn a set of design principles for creating public engagement practices necessary for building inclusive civic infrastructure in cities. Participants will also have the opportunity to review and practice strategies, techniques, and methods for engaging communities in demographically complex settings.\n",
   "department_numbers": [
     "11"
@@ -44,9 +46,11 @@
     "website": "11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020"
   },
   "learning_resource_types": [
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "eb467758-5372-4df5-92cb-0d0b109d6ce5",
   "site_short_id": "11.312-spring-2020",
+  "site_url_path": "courses/11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020",
   "title": "Course Metadata"
 }
